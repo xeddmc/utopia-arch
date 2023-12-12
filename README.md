@@ -6,6 +6,6 @@ Since Utopia isn't fully open-sourced, you can't custom compile it. So I've conv
 # Installation Instructions
 
 - To install the package, either clone this repo or download the .zip
-- If you downloaded the .zip then extract it to your folder of choice. If you cloned it, then cd into the directory
+- Extract it to your folder of choice. Open your terminal in the folder, or cd into it.
 - Run the following command: ```sudo pacman -U utopia-*.pkg.tar.zst```
 - After it runs, you should have Utopia installed and accessible from the app menu/installed list.
